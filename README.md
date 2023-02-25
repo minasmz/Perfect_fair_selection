@@ -21,4 +21,4 @@
 
 
 ### Fairness as a function of $\epsilon$
-![](lsat_wb_equal_opportunity_single_selection_2.png)
+![](lsat_wb_equal_opportunity_single_selection_2.png) 
