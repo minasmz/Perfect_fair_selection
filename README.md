@@ -10,3 +10,6 @@
 
 ## FICO credit score dataset using White+Hispanic and Asian as sensitive attributes
 ![](fz_wha.PNG)
+
+## LSAT dataset using White and Black as sensitive attributes
+![](fz_lsat.PNG)
