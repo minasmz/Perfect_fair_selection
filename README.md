@@ -13,7 +13,7 @@
 
 ## LSAT dataset using White and Black as sensitive attributes
 
-### Acuraccy when we have perfect fairness
+### Acuraccy as a function of $\epsilon$ when we have perfect fairness
 ![](fz_lsat.PNG)
 
 ### Accuracy as a function of $\epsilon$
