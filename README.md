@@ -12,4 +12,13 @@
 ![](fz_wha.PNG)
 
 ## LSAT dataset using White and Black as sensitive attributes
+
+### Acuraccy when we have perfect fairness
 ![](fz_lsat.PNG)
+
+### Accuracy as a function of $\epsilon$
+![](lsat_wb_accuracy_in_all_single_selection_2.png)
+
+
+### Fairness as a function of $\epsilon$
+![](lsat_wb_equal_opportunity_single_selection_2.png)
