@@ -17,8 +17,8 @@
 ![](fz_lsat.PNG)
 
 ### Accuracy as a function of $\epsilon$
-![](lsat_wb_accuracy_in_all_single_selection_1.png)
+![](lsat_wb_accuracy_in_all_single_selection_3.png)
 
 
 ### Fairness as a function of $\epsilon$
-![](lsat_wb_equal_opportunity_single_selection_1.png) 
+![](lsat_wb_equal_opportunity_single_selection_3.png) 
