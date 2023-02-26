@@ -6,10 +6,10 @@
 ![](fz_adult.PNG)
 
 ### Accuracy as a function of $\epsilon$
-![](adult_wb_accuracy_in_all_single_selection_2.png)
+![](adult_wb_accuracy_in_all_single_selection_3.png)
 
 ### Fairness as a function of $\epsilon$
-![](adult_wb_equal_opportunity_single_selection_2.png) 
+![](adult_wb_equal_opportunity_single_selection_3.png) 
 
 ## FICO credit score dataset using White and Black as sensitive attributes
 ![](fz_wb.PNG)
