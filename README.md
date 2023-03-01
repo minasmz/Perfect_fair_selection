@@ -28,10 +28,10 @@
 ![](fz_wha_new.PNG)
 
 ### Accuracy as a function of $\epsilon$
-![](wha_accuracy_in_all_iterations_all_in_one_adversarial_March.png)
+![](wha_accuracy_in_all_iterations_all_in_one_plus_debiased_March.png)
 
 ### Fairness as a function of $\epsilon$
-![](wha_equal_opportunity_all_in_one_adversarial_March.png) 
+![](wha_equal_opportunity_all_in_one_plus_debiased_March.png) 
 
 ## LSAT dataset using White and Black as sensitive attributes
 
