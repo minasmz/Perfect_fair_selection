@@ -2,6 +2,14 @@
 
 
 ## Adult income dataset using White and Black as sensitive attributes
+
+The debiased model trained with the following parameters:
+
+num_epochs = 5 
+
+adversary_loss_weight = 1 
+
+batch_size = 5 
 ### Acuraccy as a function of $\epsilon$ when we have perfect fairness
 ![](fz_adult.PNG)
 
@@ -12,6 +20,15 @@
 ![](adult_wb_equal_opportunity_single_selection_3.png) 
 
 ## FICO credit score dataset using White and Black as sensitive attributes
+
+The debiased model trained with the following parameters:
+
+num_epochs = 3 
+
+adversary_loss_weight = 1 
+
+batch_size = 250
+
 ### Acuraccy as a function of $\epsilon$ when we have perfect fairness
 ![](fz_wb.PNG)
 ![](fz_wb_all_legend.PNG)
@@ -24,6 +41,15 @@
 
 
 ## FICO credit score dataset using White+Hispanic and Asian as sensitive attributes
+
+The debiased model trained with the following parameters:
+
+num_epochs = 5 
+
+adversary_loss_weight = 1 
+
+batch_size = 200
+
 ### Acuraccy as a function of $\epsilon$ when we have perfect fairness
 ![](fz_wha_new.PNG)
 
@@ -34,6 +60,14 @@
 ![](wha_equal_opportunity_all_in_one_plus_debiased_March.png) 
 
 ## LSAT dataset using White and Black as sensitive attributes
+
+The debiased model trained with the following parameters:
+
+num_epochs = 7
+
+adversary_loss_weight = 3 
+
+batch_size = 50
 
 ### Acuraccy as a function of $\epsilon$ when we have perfect fairness
 ![](fz_lsat.PNG)
