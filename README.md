@@ -54,10 +54,10 @@ batch_size = 200
 ![](fz_wha_new.PNG)
 
 ### Accuracy as a function of $\epsilon$
-![](wha_accuracy_in_all_iterations_all_in_one_plus_debiased_March.png)
+![](wha_accuracy_in_all_iterations_all_in_one_plus_debiased_March_1.png)
 
 ### Fairness as a function of $\epsilon$
-![](wha_equal_opportunity_all_in_one_plus_debiased_March.png) 
+![](wha_equal_opportunity_all_in_one_plus_debiased_March_1.png) 
 
 ## LSAT dataset using White and Black as sensitive attributes
 
